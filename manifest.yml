@@ -1,0 +1,6 @@
+---
+version: 1
+applications:
+- name: flask-app
+  routes:
+  - route: flask-app-alastors.apps.smu.hackathon.systems
